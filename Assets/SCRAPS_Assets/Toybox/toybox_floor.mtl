@@ -1,0 +1,12 @@
+newmtl Prototype_Structure_Neutral
+map_Kd scraps_prototype_structure.png
+map_Ke scraps_prototype_structure.png
+Kd 0.9803922 0.9803922 0.9803922
+d 1
+
+newmtl Prototype_Structure_Cool
+map_Kd scraps_prototype_structure.png
+map_Ke scraps_prototype_structure.png
+Kd 0.4783731 0.6985451 0.8113207
+d 1
+

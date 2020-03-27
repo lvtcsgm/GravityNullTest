@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SCRAPS_Scenes/SCRAPS_OUTPOST.unity
+  isLoaded: 1
+  isActive: 1
